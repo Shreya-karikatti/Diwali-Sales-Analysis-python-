@@ -21,4 +21,5 @@ Occupation and marital status impact on buying behavior
 Top-selling products and categories
 
 🎯 Conclusion:
+
 Target customers are married women aged 26–35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation, with a preference for Food, Clothing, and Electronics.
